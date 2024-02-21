@@ -49,5 +49,5 @@ Option 1: by [SIG Technical Leads](https://github.com/kubernetes/community/blob/
 [sig-governance]: https://github.com/kubernetes/community/blob/master/committee-steering/governance/sig-governance.md
 [README]: https://github.com/kubernetes/community/blob/master/sig-cli/README.md
 [kubectl and kustomize]: https://github.com/kubernetes/community/blob/master/sig-cli/README.md#subprojects
-[Test Playbook]: https://docs.google.com/document/d/1Z3teqtOLvjAtE-eo0G9tjyZbgNc6bMhYGZmOx76v6oM
+[Test Playbook]:
 
